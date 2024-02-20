@@ -4,6 +4,6 @@
         "movie_detail": "https://api.themoviedb.org/3/movie/",
         "photo_path": "https://image.tmdb.org/t/p/w300"
     },
-    "api_key": "e52aac1f6d679cefe6555f5552d66492"
+    "api_key": "XXXXXXXXXXXXXXXXXX"
     
 }
